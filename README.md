@@ -47,7 +47,7 @@ challenges and use case considerations for architecture design. In addition, the
 
 **TODO - List of all WG Members**
 
-Working Group Chair: Martina Pickhardt (Microsoft) 
+Working Group Chair: Martina Pickhardt (Microsoft)<br/>
 Working Group Co-Chair: Nils Jensen (PwC).
 
 ### You have feedback on our publication? Please contact us by opening a [GitHub Issue](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues)!
