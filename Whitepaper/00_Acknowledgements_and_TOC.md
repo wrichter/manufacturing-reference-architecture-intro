@@ -26,18 +26,22 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 
 **Working Group Chairs, Editors, and Contributors**
 
+<br/>
+
 ### ACKNOWLEDGMENTS
 
 This document is a work product of the Open Manufacturing Platform -
 Manufacturing Reference Architecture Working Group, chaired by Martina
 Pickhardt (Microsoft) and co-chaired by Nils Jensen (PwC).
 
+<br/>
 
 ### AUTHORS
 
 Open Manufacturing Platform / Manufacturing Reference Architecture
 Working Group
 
+<br/>
 
 ### CONTRIBUTORS
 
@@ -58,6 +62,7 @@ Working Group
 | Joachim Sprinz| ZF |
 | Jürgen Vischer | Forcam |
 
+<br/>
 
 ### Table of Contents
 
@@ -96,7 +101,9 @@ Working Group
   - [Definitions and Terms](#definitions-and-terms)
 
 
-### Table of Figures**
+<br/>
+
+### Table of Figures
 
 Figure 1: [Overcome the Purdue ISA-95 model to build a smart manufacturing platform. - RAMI 4.0 inherited and evolved the standard IEC:62264 hierarchy](./02_Approach.md#fig1)
 
@@ -106,5 +113,6 @@ Figure 3: [Scope of Manufacturing Reference Architecture](./02_Approach.md#fig3)
 
 Figure 4: [Example Use Case Themes supported by the Manufacturing Reference Architecture](./05_Use_Case_Considerations.md#fig4)
 
+<br/>
 
 [Introduction >](01_Introduction.md)
