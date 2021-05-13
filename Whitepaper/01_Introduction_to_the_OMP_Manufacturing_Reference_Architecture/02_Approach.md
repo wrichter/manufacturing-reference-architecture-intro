@@ -57,8 +57,8 @@ communicate among all participants.
     <figcaption><b>Figure 1: Overcome the Purdue ISA-95 model to build a smart 
     manufacturing platform. - RAMI 4.0 inherited and evolved the 
     standard IEC:62264 hierarchy  (Plattform Industrie 4.0, 2016a, pp. 11-12);
-    <br/>
-    © Plattform Industrie 4.0; Anna Salari, designed by freepik</b></figcaption>
+    </b><br/>
+    © Plattform Industrie 4.0; Anna Salari, designed by freepik</figcaption>
 </figure>
 <br/>
 <br/>
