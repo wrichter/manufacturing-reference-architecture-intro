@@ -1,4 +1,7 @@
 <img src="media/image1.jpeg" style="width:11.81437in;height:7.38168in" />
+<img src="media/image2.png" />
+
+<br/>
 
 # Introduction to the OMP Manufacturing Reference Architecture <!-- omit in toc -->
 ## General Approach & Design Considerations <!-- omit in toc -->

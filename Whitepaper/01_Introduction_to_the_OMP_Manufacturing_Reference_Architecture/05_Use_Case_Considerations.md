@@ -34,7 +34,7 @@ refined and unnecessary data duplication across use cases is avoided.
 
 <a id="fig4"></a>
 <figure class="image">
-    <img src="media/image5.png" alt="Example Use Case Themes supported 
+    <img src="media/image6.png" alt="Example Use Case Themes supported 
     by the Manufacturing Reference Architecture">
     <figcaption>Example Use Case Themes supported by the Manufacturing
     Reference Architecture</figcaption>

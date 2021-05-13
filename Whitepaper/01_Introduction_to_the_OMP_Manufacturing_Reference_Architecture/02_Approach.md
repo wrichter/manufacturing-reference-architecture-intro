@@ -50,7 +50,7 @@ communicate among all participants.
 
 <a id="fig1"></a>
 <figure class="image">
-    <img src="media/image2.png" alt="Overcome the Purdue ISA-95 model 
+    <img src="media/image3.png" alt="Overcome the Purdue ISA-95 model 
     to build a smart manufacturing platform. - RAMI 4.0 inherited 
     and evolved the standard IEC:62264 hierarchy (Plattform Industrie 4.0, 2016a, pp. 11-12);  
     © Plattform Industrie 4.0; Anna Salari, designed by freepik">
@@ -123,7 +123,7 @@ defining the scope of the MRA.
 
 <a id="fig2"></a>
 <figure class="image">
-    <img src="media/image3.png" alt="Data Flows and Use Cases are the main driver of the Manufacturing Reference Architecture">
+    <img src="media/image4.png" alt="Data Flows and Use Cases are the main driver of the Manufacturing Reference Architecture">
     <figcaption>Data Flows and Use Cases are the main driver of the Manufacturing Reference Architecture</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ machine. As shown system connections can span multiple layers.
 
 <a id="fig3"></a>
 <figure class="image">
-    <img src="media/image4.png" alt="Scope of Manufacturing Reference Architecture">
+    <img src="media/image5.png" alt="Scope of Manufacturing Reference Architecture">
     <figcaption>Scope of Manufacturing Reference Architecture</figcaption>
 </figure>
 
