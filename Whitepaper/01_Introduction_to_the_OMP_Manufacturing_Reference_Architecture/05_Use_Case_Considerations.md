@@ -36,9 +36,10 @@ refined and unnecessary data duplication across use cases is avoided.
 <figure class="image">
     <img src="media/image6.png" alt="Example Use Case Themes supported 
     by the Manufacturing Reference Architecture">
-    <figcaption>Example Use Case Themes supported by the Manufacturing
-    Reference Architecture</figcaption>
+    <figcaption><b>Figure 4: Example Use Case Themes supported by the Manufacturing
+    Reference Architecture</b></figcaption>
 </figure>
+<br/>
 <br/>
 
 The reference architecture must support the concept of a foundation of
