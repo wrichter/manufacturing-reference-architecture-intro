@@ -59,6 +59,7 @@ communicate among all participants.
     standard IEC:62264 hierarchy  (Plattform Industrie 4.0, 2016a, pp. 11-12);  
     © Plattform Industrie 4.0; Anna Salari, designed by freepik</figcaption>
 </figure>
+<br/>
 
 New capabilities like discoverability, self-descriptiveness, and
 responsibility negotiation of assets up to data sharing across company
@@ -126,6 +127,7 @@ defining the scope of the MRA.
     <img src="media/image4.png" alt="Data Flows and Use Cases are the main driver of the Manufacturing Reference Architecture">
     <figcaption>Data Flows and Use Cases are the main driver of the Manufacturing Reference Architecture</figcaption>
 </figure>
+<br/>
 
 As data and information are driving smart manufacturing, a consistent
 definition of semantics is one of the primary challenges. These
@@ -198,6 +200,7 @@ machine. As shown system connections can span multiple layers.
     <img src="media/image5.png" alt="Scope of Manufacturing Reference Architecture">
     <figcaption>Scope of Manufacturing Reference Architecture</figcaption>
 </figure>
+<br/>
 
 The MRA proposes to add to existing architectures, connecting to, and
 potentially cutting across, boundaries and layers of the existing

@@ -39,6 +39,7 @@ refined and unnecessary data duplication across use cases is avoided.
     <figcaption>Example Use Case Themes supported by the Manufacturing
     Reference Architecture</figcaption>
 </figure>
+<br/>
 
 The reference architecture must support the concept of a foundation of
 data, from which use cases can be built out. ’Starter’ or ‘Entry Point’
