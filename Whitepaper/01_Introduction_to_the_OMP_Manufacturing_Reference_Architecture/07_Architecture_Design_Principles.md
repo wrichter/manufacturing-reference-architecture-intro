@@ -47,19 +47,19 @@ the assumption that adjustments can be made over time if required.
 
 ## Security-by-Design
 
-We have seen many architectures failed as cross-cutting aspects like
-security and compliance have been kept for later (“we don’t need this in
-our MVP”). But security, privacy, and compliance have severe
-implications that can’t be kept for later. If your production data is
-not allowed to leave the data center of the plant a public cloud
-solution is not a valid solution.
+We have seen many architectures fail as cross-cutting aspects like
+security and compliance decisions have not been decided upon up front
+(“we don’t need this in our MVP”). But security, privacy, and compliance
+have severe implications that can’t be delayed for later decision
+making. If production data is not allowed to leave the data center
+located at the plant a public cloud solution might not viable.
 
 Security must be integrated from the start, easy integration and
 adoption of additional security and compliance requirements is a must.
-Many of them require fast implementations and violations have a huge
-impact. Define features and components in a way that enables easy
-integration and adoption of the current security and compliance stances
-of the operator.
+Many of these principles require fast implementations and violations
+have a huge impact. Define features and components in a way that enables
+easy integration and adoption of the current security and compliance
+stances of the operator.
 
 ## The Edge is an Extension of the Centralized Compute Power
 
@@ -83,30 +83,32 @@ discoverable, accessible, and actionable based regardless of its
 location.
 
 Information can be moved to and from the edge and cloud as appropriate
-based upon different “temperatures” representing latency and velocity
-requirements.
+based upon different “temperatures” *(see Note)* representing latency
+and velocity requirements.
 
-***Excursion:***
-
--   ***Cold Information** is typically moved to and from the cloud or
-    facility based on a timer or the arrival of a file allowing for
-    large batches as required for performance and scale. This has a
-    higher latency and is typically used for post-processing and
-    analytics.*
-
--   ***Hot Information** is typically moved to and from the cloud or
-    facility through a streaming technique with a requirement of being
-    to its endpoint with as low latency as reasonable. Examples of this
-    may be tied to an alert on a piece of machinery that identifies a
-    looming production outage.*
-
--   ***Warm Information** is a combination of the Cold Information and
-    Hot Information paths, where a condition that is transferred via the
-    Hot Information path triggers a Cold Information transfer. For
-    example, consider a rolling 2-minute window of vibrations that is
-    being tracked for a generator. When a power spike occurs, it
-    triggers a Hot Information data movement then immediately follows
-    with a Cold Information movement of the vibrations file.*
+---------------------------------------------------------------------
+>***Excursion***
+>
+>-   ***Cold Information** is typically moved to and from the cloud or
+>    facility based on a timer or the arrival of a file allowing for
+>    large batches as required for performance and scale. This has a
+>    higher latency and is typically used for post-processing and
+>    analytics.*
+>
+>-   ***Hot Information** is typically moved to and from the cloud or
+>    facility through a streaming technique with a requirement of being
+>    to its endpoint with as low latency as reasonable. Examples of this
+>    may be tied to an alert on a piece of machinery that identifies a
+>    looming production outage.*
+>
+>-   ***Warm Information** is a combination of the Cold Information and
+>    Hot Information paths, where a condition that is transferred via the
+>    Hot Information path triggers a Cold Information transfer. For
+>    example, consider a rolling 2-minute window of vibrations that is
+>    being tracked for a generator. When a power spike occurs, it
+>    triggers a Hot Information data movement then immediately follows
+>    with a Cold Information movement of the vibrations file.*
+---------------------------------------------------------------------
 
 Common data access and analysis patterns have existed for many years
 with two higher-level solution domains that should inform the decisions
@@ -122,14 +124,14 @@ when designing or implementing components and services:
     velocity, so the compute resources are placed closer to the data to
     perform the operations.
 
-> The solution should borrow concepts and decisions from these two
-> domains when solving problems to identify locations of execution and
-> where data should be maintained and at what velocity (information
-> temperature). In addition to this, as much data as reasonably possible
-> should be moved to the cloud to take advantage of the best AI/machine
-> learning models and avoid the requirement to move massive amounts of
-> data in the future. Options should still exist to perform distributed
-> analytics at the edge.
+The solution should borrow concepts and decisions from these two
+domains when solving problems to identify locations of execution and
+where data should be maintained and at what velocity (information
+temperature). In addition to this, as much data as reasonably possible
+should be moved to the cloud to take advantage of the best AI/machine
+learning models and avoid the requirement to move massive amounts of
+data in the future. Options should still exist to perform distributed
+analytics at the edge.
 
 ## Cost is a Factor
 
@@ -140,13 +142,13 @@ must return a net benefit. Thus, the reference architecture will be
 designed with principles that will help reduce overall cost. In
 particular:
 
--   **Data reusability*: ***The foundation of many use cases is sensor
+-   **Data reusability**: The foundation of many use cases is sensor
     data from machines. Capturing, preparing, and storing this data has
     an overhead cost. Sharing this overhead across multiple use cases
     will improve the RoI of individual projects. In addition, data reuse
     will reduce the cost of data quality.
 
--   **Analytic reusability*: ***Like use cases, there are common
+-   **Analytic reusability**: Like use cases, there are common
     analytic functions (for example in data quality and preparation) in
     addition to common analytic use cases. Analysts should be able to
     draw on pre-existing models, processes, and tools for either direct

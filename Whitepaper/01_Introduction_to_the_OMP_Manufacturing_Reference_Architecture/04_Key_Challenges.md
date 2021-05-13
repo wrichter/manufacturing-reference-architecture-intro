@@ -15,7 +15,8 @@ the impression that computer vision, predictive maintenance, and many
 other buzzwords are standard technology elements of every shop floor.
 But they are mostly stuck in the pilot phase. Overcoming the roadblocks
 from local pilots to scaled adoption is one of if not the most important
-challenge. The following is explaining this using a typical scenario.
+challenge. The following example showcases the typical challenges when
+considering the scale out of a use case scenario.
 
 After a successful implementation of a specific Computer Vision use case
 there are three options for scaling: Do I want to use computer vision
@@ -28,22 +29,23 @@ must be set.
 
 Huge transformation budgets for manufacturing are history. The current
 cost pressure on manufacturing companies mandates fast ROI. Saving money
-and reaping the benefits already during the transformation journey is a
-must. Just collecting data, pushing them to a data lake, and then
-deciding how to gain insight from them is not a valid approach anymore.
+and reaping the benefits during the transformation journey is a must.
+Simply collecting data, pushing them to a data lake, and then deciding
+how to gain insights at a later time is not a valid approach anymore.
 Gaining insights from data collected, transforming them into
 information, adding the appropriate semantics, and making them
-actionable in the various use cases is key.
+immediately actionable in the various use cases is paramount.
 
 ## Lacking IT Skills 
 
-While OT knowledge in most companies is sufficiently covered by own
-workforce or established suppliers, IT skills in manufacturing are
-lacking the most. As IT is entering a lot of OT areas like
-software-defined PLCs this deficit is even increasing. People must be
-trained to apply existing knowledge and to replace some views of the
-past. The skill transformation can only be covered with a well-balanced
-partner ecosystem.
+While OT knowledge in most companies is sufficiently covered by a
+company’s own workforce or established suppliers, there is a shortage of
+skills combining IT and manufacturing knowledge. As IT is entering a lot
+of OT areas like software-defined PLCs this deficit is even increasing.
+People must be trained to apply existing knowledge and to replace some
+views of the past. The skill transformation can be covered with a
+well-balanced partner ecosystem, but this approach can be costly and
+risky.
 
 ## Sidecar vs. Rip-and-Replace Approach
 

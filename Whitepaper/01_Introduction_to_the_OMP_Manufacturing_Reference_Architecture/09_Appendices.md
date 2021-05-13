@@ -1,6 +1,6 @@
 [< Conclusion](./08_Conclusion.md)
 
-# Appendix:
+# Appendix
 
 ## Definitions and Terms
 

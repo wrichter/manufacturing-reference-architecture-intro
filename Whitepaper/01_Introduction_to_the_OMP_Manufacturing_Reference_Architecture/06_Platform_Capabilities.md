@@ -11,7 +11,7 @@ on top of it both in the initial phase and in the long term.
 The following capabilities should be a priority:
 
 -   ***Data Governance:*** The orchestration of people, processes, and
-    technology for democracy of data and enable organizations to
+    technology for democratization of data enable organizations to
     leverage their data as an enterprise-wide business asset as well as
     in cross-company data exchanges, becoming an important capability of
     a smart factory platform.
@@ -45,7 +45,7 @@ The following capabilities should be a priority:
     designed with the context of data ownership, data quality, data
     flexibility incl. centralized data schemas.
 
--   ***Data Reusability***: Data will be stored in their raw format to
+-   ***Data Reusability***: Data should be stored in their raw format to
     create a multi-purpose data foundation. It can be transformed as
     required by individual use cases through different zones. In
     general, a defined data schema across all factories needs to be

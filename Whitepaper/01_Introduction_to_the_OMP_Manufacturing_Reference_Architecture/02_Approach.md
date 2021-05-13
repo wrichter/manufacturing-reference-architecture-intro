@@ -50,17 +50,19 @@ communicate among all participants.
 
 <a id="fig1"></a>
 <figure class="image">
-    <img src="media/image2.png" alt=" Overcome the Purdue ISA-95 model 
+    <img src="media/image2.png" alt="Overcome the Purdue ISA-95 model 
     to build a smart manufacturing platform. - RAMI 4.0 inherited 
-    and evolved the standard IEC:62264 hierarchy">
-    <figcaption> Overcome the Purdue ISA-95 model to build a smart 
+    and evolved the standard IEC:62264 hierarchy (Plattform Industrie 4.0, 2016a, pp. 11-12);  
+    © Plattform Industrie 4.0; Anna Salari, designed by freepik">
+    <figcaption>Overcome the Purdue ISA-95 model to build a smart 
     manufacturing platform. - RAMI 4.0 inherited and evolved the 
-    standard IEC:62264 hierarchy</figcaption>
+    standard IEC:62264 hierarchy  (Plattform Industrie 4.0, 2016a, pp. 11-12);  
+    © Plattform Industrie 4.0; Anna Salari, designed by freepik</figcaption>
 </figure>
 
 New capabilities like discoverability, self-descriptiveness, and
 responsibility negotiation of assets up to data sharing across company
-boundaries, might enable to overcome the rigid pyramid model and will
+boundaries, might help to overcome the rigid pyramid model and will
 create a more flexible network-driven architecture design.
 
 The mission of the MRA working group is to provide hands-on guidance on
@@ -85,18 +87,17 @@ considered some main areas of concern:
 
 -   ***Cybersecurity***: By enabling shopfloor inbound and outbound
     communication, and enabling customers and partners access to
-    production data, it needs to be ensured that a secure, reliable
-    communication flow can be established. Therefore, smart
-    manufacturing solutions need a solid design of connectivity and
-    communication protocols as well as sophisticated identity and access
-    management systems.
+    production data, a secure, reliable communication flow should be
+    established. Therefore, smart manufacturing solutions need a solid
+    design of connectivity and communication protocols as well as
+    sophisticated identity and access management systems.
 
--   ***Industrialization and Productization*** Starting point of the
-    digital transformation might be data integration and some reporting
-    use cases, however, over time the need arises to create a
-    pattern-based service catalog to enable reuse within the
-    transformation. This might be a side-by-side activity by creating a
-    smart manufacturing center of excellence.
+-   ***Industrialization and Productization*** The starting point of
+    digital transformation might be data integration and reporting use
+    cases, however, over time the need arises to create a pattern-based
+    service catalog to enable reuse within the transformation. This
+    might be a side-by-side activity by creating a smart manufacturing
+    center of excellence.
 
 -   ***Enterprise Deployment:*** Implementing a digital platform
     utilized by optimization-orientated use cases will go through a life
@@ -117,13 +118,13 @@ and by this valuable, are the heartbeat of smart manufacturing. This is
 relevant in single plants and cross companies’ boundaries covering whole
 value chains or to enable data sharing concepts.
 
-Therefore, **use cases** based on **data flows** are the drivers to
-define the scope of the MRA.
+Therefore, **use cases** based on **data flows** are the drivers
+defining the scope of the MRA.
 
 <a id="fig2"></a>
 <figure class="image">
-    <img src="media/image3.png" alt="Data Flows and Use Cases are the main driver of the MRA">
-    <figcaption>Data Flows and Use Cases are the main driver of the MRA</figcaption>
+    <img src="media/image3.png" alt="Data Flows and Use Cases are the main driver of the Manufacturing Reference Architecture">
+    <figcaption>Data Flows and Use Cases are the main driver of the Manufacturing Reference Architecture</figcaption>
 </figure>
 
 As data and information are driving smart manufacturing, a consistent
@@ -140,7 +141,7 @@ Domain-specific **applications** are running on a platform, like
 maintenance apps for the shop floor or warehouse managing apps for the
 logistics department.
 
-Due to the system complexity and to enable “economy of scale” a
+Due to the system complexity and to enable an “economy of scale” a
 **platform approach** is chosen. The platform can be divided into a
 functional and a technical part *(see Figure 2).*
 
@@ -187,7 +188,7 @@ and targets a holistic IIoT platform, providing digital capabilities to
 enable manufacturers to connect or transfer their existing hierarchies
 to the requirements of Industry 4.0. As shown in *figure 3* the strict
 hierarchical structure can be extended with new elements: As introduced
-in RAMI the Connected World is extending the architecture to a system
+in RAMI the “connected world” is extending the architecture to a system
 outside the enterprise. They can be integrated down to lower levels. An
 example is a SaaS condition monitoring solution to monitor a given
 machine. As shown system connections can span multiple layers.

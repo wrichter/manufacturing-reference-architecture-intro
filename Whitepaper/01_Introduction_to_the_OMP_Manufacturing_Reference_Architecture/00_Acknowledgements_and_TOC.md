@@ -1,13 +1,16 @@
-<img src="media/image1.png" style="width:8.72639in;height:6.49167in" />
+<img src="media/image1.jpeg" style="width:11.81437in;height:7.38168in" />
 
 # Introduction to the OMP Manufacturing Reference Architecture <!-- omit in toc -->
 ## General Approach & Design Considerations <!-- omit in toc -->
 
-<u>Published</u> <u>Version</u>
+|Published|Version|
+|---------|-------|
+|May 13, 2021|1.0|
 
-> May XX, 2021 X.Y.Z
 
-**Legal Disclaimers**
+<br/>
+
+### Legal Disclaimers <!-- omit in toc -->
 
 Copyright OMP 2021, All rights reserved.  
   
@@ -24,7 +27,6 @@ AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING
 NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER MEMBER HAS BEEN
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 
-**Working Group Chairs, Editors, and Contributors**
 
 <br/>
 
@@ -97,7 +99,7 @@ Working Group
   - [Cost is a Factor](./07_Architecture_Design_Principles.md#cost-is-a-factor)
   - [Design for Business Continuity, Disaster Recovery, and Compliance](./07_Architecture_Design_Principles.md#design-for-business-continuity-disaster-recovery-and-compliance)
 - [Conclusion](./08_Conclusion.md#conclusion)
-- [Appendix:](./09_Appendices.md#appendix)
+- [Appendix](./09_Appendices.md#appendix)
   - [Definitions and Terms](#definitions-and-terms)
 
 
@@ -107,7 +109,7 @@ Working Group
 
 Figure 1: [Overcome the Purdue ISA-95 model to build a smart manufacturing platform. - RAMI 4.0 inherited and evolved the standard IEC:62264 hierarchy](./02_Approach.md#fig1)
 
-Figure 2: [Data Flows and Use Cases are the main driver of the MRA](./02_Approach.md#fig2)
+Figure 2: [Data Flows and Use Cases are the main driver of the Manufacturing Reference Architecture](./02_Approach.md#fig2)
 
 Figure 3: [Scope of Manufacturing Reference Architecture](./02_Approach.md#fig3)
 

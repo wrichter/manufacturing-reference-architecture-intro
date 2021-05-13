@@ -36,9 +36,9 @@ working groups to come, will be reflected in the architectural picture.
 Of course, this also applies to the very specific use cases that are
 being worked on in the AGV Working Group.
 
-The findings of the Working Group are not exhaustive and will be
-extended in the course of the work. In our next publications, we will
-dive deeper into the different layers and aspects of the architecture
-and describe this very concretely by use cases.
+The findings and recommendations of the Working Group are not exhaustive
+and will be extended in the course of future work. In our next
+publications, we will dive deeper into the different layers and aspects
+of the architecture and describe this very concretely by use cases.
 
 [Appendices >](./09_Appendices.md)

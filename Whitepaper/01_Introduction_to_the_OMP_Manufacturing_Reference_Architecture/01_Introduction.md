@@ -12,8 +12,8 @@ MRA within the OMP initiative, its benefits, approach, vision, goals,
 and scope.
 
 Readers gain the foundation to benchmark their manufacturing
-architecture approach and design concept and further detail to support a
-planned architecture project.
+architecture approach and design concept as well as further detail to
+support a planned architecture project.
 
 While this document serves as an introduction, upcoming planned content
 from the MRA includes, but is not limited to:
@@ -29,10 +29,9 @@ from the MRA includes, but is not limited to:
 
 This document is primarily interesting for readers who act in a function
 related to general IT topics, enterprise or solution architecture,
-Industry 4.0, or digital transformations regarding manufacturing and
-industrial production. As an outline of the intended audience, the
-following roles act as examples of what functions will benefit the most
-of this whitepaper.
+Industry 4.0, or digital transformations regarding manufacturing or
+industrial production. The following descriptions provide examples of
+the roles and functions that will benefit the most of this whitepaper.
 
 The white paper focuses on architect roles like **Enterprise Architects
 and Cloud/Solution/Software Architects** as they benefit from all
